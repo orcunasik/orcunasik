@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Orçun Aşık. I graduated from Mersin University with my degree in Computer Technology and Information Systems in 2020. <br>I am training on platforms such as Udemy and I continue to improve myself and keep it up to date.<br>I have been project-based experience in C#, SQL languages ​​and Asp Net Core MVC/API technologies, N-Tier Architecture architecture. 
+Hello, my name is Orçun Aşık. I graduated from Mersin University with my degree in Computer Technology and Information Systems in 2020. <br>I am training on platforms such as Udemy and I continue to improve myself and keep it up to date.<br>I have been project-based experience in C#, SQL languages ​​and Asp Net Core MVC/API technologies, N-Tier Architecture. 
 
 
 ## 🌐 Socials:
